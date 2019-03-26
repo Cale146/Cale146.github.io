@@ -30,9 +30,10 @@ github_username:  Cale146
 # Build settings
 markdown: kramdown
 theme: minima
-#layout: default
-#plugins:
+layout: default
+plugins:
 #  - jekyll-feed
+   - jekyll-redirect-from
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
