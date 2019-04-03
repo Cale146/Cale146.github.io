@@ -363,6 +363,25 @@ table {
       .post-content h4 {
         font-size: 18px; } }
 
+/**adjust text on images
+ */
+.item{
+  width:300px;
+  height:600px;
+  text-align:center;
+  display:block;
+  background-color: transparent;
+  border: 1px solid transparent;
+  margin-right: 10px;
+  margin-bottom: 1px;
+  float:left;
+}
+
+#project-gallery{
+  width:1000px;
+  height:650px;
+}
+
 /**
  * Syntax highlighting styles
  */

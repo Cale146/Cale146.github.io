@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Coming soon!"
+title:  "Coming soons!"
 date:   2019-03-22 22:23:43 -0400
 categories: jekyll update
 ---

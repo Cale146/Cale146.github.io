@@ -1,7 +1,10 @@
 ---
-layout: page
+layout: photo
 title: Projects
 permalink: /Projects/
----
+description: "An example photo gallery."
 
-This will eventually be the place I share my previous applications and works of progress.
+photos:
+    set: berlin
+    size: 3
+---

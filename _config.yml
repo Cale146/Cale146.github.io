@@ -33,7 +33,7 @@ theme: minima
 layout: default
 plugins:
 #  - jekyll-feed
-   - jekyll-redirect-from
+#   - jekyll-redirect-from
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
@@ -46,3 +46,13 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+collections:
+  photos:
+    output: true
+
+defaults:
+   - scope:
+       path: "assets/img"
+     values:
+       image: true
