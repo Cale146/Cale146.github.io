@@ -33,7 +33,7 @@ theme: minima
 layout: default
 plugins:
 #  - jekyll-feed
-#   - jekyll-redirect-from
+   - jekyll-redirect-from
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
